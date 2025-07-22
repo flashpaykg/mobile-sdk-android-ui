@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok_label" translatable="false">Ok</string>
+
+    <string name="sale_label">Select Payment Method</string>
+    <string name="tokenize_label">Save Card</string>
+    <string name="verify_label">Verify Card</string>
+    <string name="payment_dismiss_confirm_message">Payment is in progress. Are you sure you want to close the page?</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="proceed_label" translatable="false">Proceed</string>
+    <string name="error_label">Error</string>
+    <string name="title_camera_permission_label">
+        Enable your camera to scan your bank card. To do this, go to App Settings.
+    </string>
+    <string name="button_camera_permission_label">
+        App Settings
+    </string>
+
+    <string name="ssl_error_title" translatable="false">Connection Security Issue</string>
+    <string name="ssl_error_message" translatable="false">
+        The app cannot verify the security of the connection to the server. This may be caused by temporary network issues or attempts by third parties to interfere with your connection. If you’re unsure about the safety of your current connection or the network you’re using, it’s recommended not to proceed.
+    </string>
+
+    <string name="acs_mock_mode_toast_label" translatable="false">
+        Acs page will be closed automatically after 2 seconds
+    </string>
+
+    <!-- Accessibility strings -->
+    <string name="icon_close_content_description" translatable="false">Close</string>
+    <string name="icon_back_content_description" translatable="false">Back</string>
+    <string name="icon_google_pay_content_description" translatable="false">
+        Google Pay
+    </string>
+    <string name="required_field_content_description" translatable="false">Required field</string>
+    <string name="section_role_content_description" translatable="false">Section</string>
+    <string name="link_role_content_description" translatable="false">Link</string>
+    <string name="expanded_state_content_description" translatable="false">Expanded</string>
+    <string name="collapsed_state_content_description" translatable="false">Collapsed</string>
+    <string name="checked_state_content_description" translatable="false">Checked</string>
+    <string name="not_checked_state_content_description" translatable="false">Not checked</string>
+</resources>

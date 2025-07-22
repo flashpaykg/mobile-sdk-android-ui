@@ -1,0 +1,10 @@
+/.gradle
+/.idea
+/build
+local.properties
+/buildSrc/build
+/buildSrc/.gradle
+/fastlane/report.xml
+
+Gemfile.lock
+*.iml
