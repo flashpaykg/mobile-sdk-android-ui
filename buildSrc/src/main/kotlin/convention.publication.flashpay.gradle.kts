@@ -37,7 +37,7 @@ afterEvaluate {
                 pom {
                     name.set("mSDK UI Module")
                     description.set("SDK for Android is a software development kit for fast integration of the flashpay payment solutions right in your mobile application for Android.")
-                    url.set("https://github.com/ITFLASHPAY/mobile-sdk-android-ui")
+                    url.set("https://github.com/flashpaykg/mobile-sdk-android-ui")
 
                     licenses {
                         license {

@@ -20,7 +20,7 @@ mavenPublishing {
     pom {
         name.set("mSDK UI Module")
         description.set("SDK for Android is a software development kit for fast integration of payment solutions right in your mobile application for Android.")
-        url.set("https://github.com/ITFLASHPAY/mobile-sdk-android-ui")
+        url.set("https://github.com/flashpaykg/mobile-sdk-android-ui")
         licenses {
             license {
                 name.set("MIT")
@@ -29,9 +29,9 @@ mavenPublishing {
         }
         developers {
             developer {
-                id.set("Sergei Kamakov <garretads@gmail.com>")
-                name.set("Sergei Kamakov")
-                url.set("https://github.com/Garretads")
+                id.set("<id>")
+                name.set("<name>")
+                url.set("<url>")
             }
         }
         scm {
