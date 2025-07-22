@@ -35,7 +35,7 @@ mavenPublishing {
             }
         }
         scm {
-            url.set("https://github.com/ITFLASHPAY/mobile-sdk-android-ui/")
+            url.set("https://github.com/flashpaykg/mobile-sdk-android-ui")
         }
     }
 

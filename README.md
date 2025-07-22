@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/ITFLASHPAY/mobile-sdk-android-ui/actions/workflows/master_push_pr.yml/badge.svg)]()
+[![Build Status](https://github.com/flashpaykg/mobile-sdk-android-ui/actions/workflows/master_push_pr.yml/badge.svg)]()
 ![Maven Central Version](https://img.shields.io/maven-central/v/com.flashpay/msdk-ui-common)
 
 ## Overview
