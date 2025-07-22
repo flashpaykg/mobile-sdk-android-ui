@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/flashpaykg/mobile-sdk-android-ui/actions/workflows/master_push_pr.yml/badge.svg)]()
-![Maven Central Version](https://img.shields.io/maven-central/v/com.flashpay/msdk-ui-common)
+![Maven Central Version](https://img.shields.io/maven-central/v/kg.flashpay/msdk-ui-common)
 
 ## Overview
 
@@ -22,7 +22,7 @@ It can be embedded in mobile applications developed for Android **API 21** or la
 The SDK for Android libraries can be imported via MavenCentral. To import the libraries via MavenCentral you need to add the following dependencies to the `dependencies` section:
 
 ```
-implementation "com.flashpay:msdk-ui:LATEST_VERSION"
+implementation "kg.flashpay:msdk-ui:LATEST_VERSION"
 implementation "com.ecommpay:msdk-core-android:LATEST_VERSION"
 ```
 

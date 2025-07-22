@@ -52,7 +52,7 @@ mavenPublishing {
 }
 
 android {
-    namespace = "com.flashpay.msdk.ui"
+    namespace = "kg.flashpay.msdk.ui"
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
         consumerProguardFiles("consumer-rules.pro")

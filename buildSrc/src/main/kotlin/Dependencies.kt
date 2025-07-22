@@ -3,7 +3,7 @@
 object Library {
     const val artifactId = "msdk-ui"
     const val version = "3.8.7"
-    const val group = "com.flashpay"
+    const val group = "kg.flashpay"
 }
 
 object Versions {

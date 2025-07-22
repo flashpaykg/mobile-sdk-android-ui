@@ -7,9 +7,9 @@ val projectSecretKey = "123"
 val gPayMerchantId = "BCR2DN6TZ75OBLTH"
 
 android {
-    namespace = "com.flashpay.msdk.ui.integration.example"
+    namespace = "kg.flashpay.msdk.ui.integration.example"
     defaultConfig {
-        applicationId = "com.flashpay.msdk.ui.integration.example"
+        applicationId = "kg.flashpay.msdk.ui.integration.example"
         versionName = System.getenv("SDK_VERSION_NAME") ?: Library.version
         versionCode = System.getenv("SDK_VERSION_CODE")?.toInt() ?: 1
     }

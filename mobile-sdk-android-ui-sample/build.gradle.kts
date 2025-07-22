@@ -4,9 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.flashpay.ui.msdk.sample"
+    namespace = "kg.flashpay.ui.msdk.sample"
     defaultConfig {
-        applicationId = "com.flashpay.ui.msdk.sample"
+        applicationId = "kg.flashpay.ui.msdk.sample"
         versionName = System.getenv("SDK_VERSION_NAME") ?: Library.version
         versionCode = System.getenv("SDK_VERSION_CODE")?.toInt() ?: 1
     }

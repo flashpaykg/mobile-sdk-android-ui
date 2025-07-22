@@ -52,7 +52,7 @@ mavenPublishing {
 }
 
 android {
-    namespace = "com.paymentpage.msdk.ui"
+    namespace = "kg.paymentpage.msdk.ui"
     buildTypes {
         release {
             buildConfigField(
